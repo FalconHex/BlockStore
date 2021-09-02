@@ -1,5 +1,5 @@
 ## ``` Decentralized File Storage. ```
-This is a decentralised file storage and sharing application  
+This is a decentralized file storage and sharing application  
 Build on Ethereum Network  
 Build using  
 1.Ethereum  
