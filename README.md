@@ -1,4 +1,14 @@
 ## ``` Decentralized File Storage. ```
+This is a decentralised file storage and sharing application  
+Build on Ethereum Network  
+Build using  
+1.Ethereum  
+2.Solidity  
+3.Web3.js  
+4.React.js  
+
+Thanks to Dapp University for such a great tutorial.  
+Link to demo video : https://youtu.be/s_vUJN36dw4
 
 
 ## 🔧 Project Diagram:
